@@ -1,6 +1,6 @@
 {
   "name": "@zippie/mpesa-node",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "Node M-Pesa Library",
   "repository": {
     "type": "git",
